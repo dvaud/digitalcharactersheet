@@ -8,7 +8,7 @@ I created this for my beginner party because I wanted them to be able to:
 
 **Before the first session after implementing this to my table, my players told me that they finally understand what the hasty notes on their physical charactersheets meant.**
 
-My first goal was eductaion of my players but I also kept in mind that sheets change often and they need to be unified and modular if I don't want to rewrite the whole code for every new character or level-up. Anyone with basic technical knowledge can follow the clear comments to create a personalised character sheet for any Wizard, Rogue or Monk. *Other classes can easily be coded in due to the modular, I just personally dont have the need for it.*
+My first goal was education of my players but I also kept in mind that sheets change often and they need to be unified and modular if I don't want to rewrite the whole code for every new character or level-up. Anyone with basic technical knowledge can follow the clear comments to create a personalised character sheet for any Wizard, Rogue or Monk. *Other classes can easily be coded in due to the modular, I just personally dont have the need for it.*
 
 The base code was written by AI, I cleaned it up and made it modular.
 
