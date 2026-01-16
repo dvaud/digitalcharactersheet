@@ -12,6 +12,8 @@ I created this for my beginner D&D party because I wanted them to be able to:
 
 My first goal was education of my players but I also kept in mind that sheets change often and they need to be unified and modular if I don't want to rewrite the whole code for every new character or level-up. Anyone with basic technical knowledge can follow the clear comments to create a personalised character sheet for any Wizard, Rogue or Monk. *Other DnD classes can easily be coded in due to the modular nature of this project, I just personally dont have the need for it.*
 
+The website is desktop first, but very mobile friendly.
+
 The base code was written by AI, I cleaned it up and made it modular.
 
 # How I host this for free for my players
