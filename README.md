@@ -1,3 +1,4 @@
+<img width="2966" height="1542" alt="image" src="https://github.com/user-attachments/assets/8ccb2204-0148-423e-a152-bab04fc59f1c" />
 # digitalcharactersheet
 A minimalistic easy to use modular and beginner friendly online character sheet design for Dungeons and Dragons.
 
